@@ -1,0 +1,5 @@
+package org.example.Heda03_OOP.example13;
+
+public interface NotificationSender {
+    void send(String message);
+}
